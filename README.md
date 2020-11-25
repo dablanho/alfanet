@@ -2,7 +2,7 @@
 
 - $ composer install
 - $ cp .env.example .env
-- configure database settings in .env like below / .env dosyasında veri tabanı ayarlarını aşagıdaki gibi ayarla
+- configure database settings in .env like below / .env dosyasında veri tabanı ayarları
 ```
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
